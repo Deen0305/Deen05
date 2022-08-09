@@ -1,0 +1,129 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: Ubuntu;
+}
+.container{
+	background-color: #cccccc;
+	height: 340vh;
+	width:  80%;
+	margin: 0px 50px 0px 150px;
+	line-height: 1.7em;
+	
+}
+#name{
+	text-align: center;
+	font-family: ubuntu;
+	font-size: 3em;
+	
+}
+#occupation{
+	text-align: center;
+	font-family: ubuntu;
+	font-weight: 300;
+	font-size: 1em;
+	padding-top: 10px;
+}
+
+.malcom{
+	height: 150px;
+    width: 50%;
+    padding: 10px auto;
+    margin: 10px 350px 0px 300px;
+}
+
+#com-X{
+	width: 65vh;
+    height: 329px;
+    border-radius: 20px 50px 50px 50px;
+}
+#text-2{
+    font-weight: 500;
+    font-size: 1.2em;
+	text-align: center;
+	padding: 17px 71px 0px 0px;
+}
+
+.header-2 {
+    padding: 27% 0px 0px 0px;
+    font-weight: lighter;
+    text-align: center;
+    font-family: cursive;
+    font-size: larger;
+}
+
+.content, ul{
+	padding: 60px 20px 0px 50px;
+	list-style: inside;
+	font-size: 1em;
+	text-align: center;
+}
+
+.attack{
+	border: 5px solid rgb(143 141 127);
+    border-radius: 20px;
+    height: 185px;
+    width: 40%;
+    margin: 20px auto;
+}
+
+#text-1{
+    color: #ff1d4ee0;
+    font-size: 1.3em;
+    font-weight: 900;
+}
+.hajj{
+	border: 5px solid brown;
+    height: 327px;
+    width: 67%;
+	border-radius: 20px;
+	margin: 40px auto;
+}
+#text-3{
+	font-weight: 900;
+    font-size: 1em;
+    color: #250228;
+    text-align: center;
+    padding: 5px;
+}
+#hajj-pic{
+	width: 300px;
+    height: 25.6vw;
+    float: right;
+    padding: 0px 0px 5px 30px;
+    border-radius: 17px;
+}
+.final{
+	text-align: center;
+	font-family: cursive;
+	font-size: 0.9em;
+}
+.popular{
+	border: 5px solid rgb(108 99 4);
+    border-radius: 20px;
+    height: 185px;
+    width: 40%;
+    margin: 20px auto;
+}
+#header-3{
+	text-align: center;
+	padding-top: 10px;
+	font-size: 2em;
+	font-family: cursive;
+	color: rgb(62, 0, 104);
+}
+#text-4{
+	text-align: center;
+    font-family: 'Ubuntu';
+    font-style: italic;
+    font-weight: bold;
+	color: rgb(13 0 22);
+    font-size: 1.1em;
+}
+a{
+	font-size: larger;
+	color: rgba(151, 0, 0, 0.979);
+	text-decoration: none;
+}
